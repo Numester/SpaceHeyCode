@@ -1,0 +1,278 @@
+
+
+
+<img src="https://64.media.tumblr.com/a9087fa8dc95cac1209974069d7f8de8/6c0eed8728153bf1-79/s1280x1920/a5ba1175a238c540e50db56a7e90f4fd97af9e1e.png" class="center" width="440" height="20"/> 
+
+<iframe width="440" height="350" src="https://www.youtube.com/embed/rnVcfU6zmVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+
+
+
+
+
+
+
+
+
+<!-- (c) Layout created by Kam (https://layouts.spacehey.com/layout?id=2895) -->
+
+<!-- (c) Layout created by Kam (https://layouts.spacehey.com/layout?id=2895) -->
+
+<!-- (c) Layout created by Kam (https://layouts.spacehey.com/layout?id=2887) -->
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+ 
+  body, .bodyContent  { 
+  background-image:url(https://cdn.discordapp.com/attachments/1010585557476311080/1016864584537215007/unknown.png); 
+
+ background-position:center; 
+ background-attachment:fixed; 
+ background-repeat: repeat;
+ background-size: 30%;
+ border-color:#cd0411; 
+ border-width:14px; 
+ border-style:Inset; 
+ scrollbar-face-color:000000; 
+ scrollbar-highlight-color:F8F8FF; 
+ scrollbar-3dlight-color:FF1493; 
+ scrollbar-shadow-color:000000; 
+ scrollbar-darkshadow-color:FFFFFF; 
+ scrollbar-arrow-color:FF1493; 
+ scrollbar-track-color:FF1493; 
+ } 
+
+  main { 
+  background-color:transparent;
+  color:white;
+ } 
+
+  { 
+  border:0px; 
+ background-image:none; 
+ background-color:transparent; 
+ } 
+
+button {
+ background: linear-gradient( #000000 ,   #641200  );
+ border: solid 1px #cd0411;
+ border-radius: 4px;
+ padding: 3px;
+ color:  #cd0411 ;
+ font-size: 9px;
+}
+
+
+
+
+.profile-pic img{
+height: 10em;
+margin: .5em;
+}
+
+.online{
+color: white;
+font-family: 'Bebas Neue', cursive;
+font-size: 30px;
+text-shadow: 0px 0px 5px red;
+animation-name: blink;
+animation-iteration-count: infinite;
+animation-timing-function: cubic-bezier(1.0,0,0,1.0);
+animation-duration: 2s;
+}
+
+.online img{
+display: none;
+}
+
+
+.profile .contact .heading,
+.profile .table-section .heading{
+background-color: black;
+border-style:Double; 
+ border-width:6px;
+ border-color:#cd0411; 
+font-size: 25px;
+font-family: 'Bebas Neue', cursive;
+line-height: 1.5em;
+}
+
+.contact .inner a img {
+font-size: 0;
+}
+.contact .inner a img:before {
+font-size: 1em;
+display: block
+}
+
+.contact .inner a:before{
+content: "★";
+font-size: 17px;
+}
+
+
+.profile .table-section,
+.profile .contact,
+.profile .url-info{
+background-color: black;
+border: none;
+border-radius: 10px;
+box-shadow:2px 2px 0px red;
+}
+
+.profile .contact, .profile .table-section, .profile .url-info, .profile .friends, .profile .blurbs, table.comments-table, DIV.blog-preview { 
+border-style:Double; 
+ border-width:6px; 
+ border-color:#cd0411;
+ background-attachment:fixed; 
+ } 
+
+.profile .profile-info{
+background-color: black;
+border-style:Double; 
+ border-width:6px; 
+ border-color:#cd0411;
+}
+
+.profile .blog-preview{
+color: white;
+}
+
+.profile .general-about{
+background-color: black;
+border-style:Double; 
+ border-width:6px; 
+ border-color:#cd0411;
+}
+
+.profile .contact, .profile .table-section, .profile .url-info, .profile .friends, .profile .blurbs, table.comments-table, DIV.blog-preview { 
+  border-style:Double; 
+ border-width:6px; 
+ border-color:#cd0411; 
+ background-attachment:fixed; 
+ } 
+
+.profile .contact, .profile .contact .heading, .profile .url-info, .profile .table-section, .profile .table-section .heading, .profile .blurbs .heading, .profile .friends .heading, DIV.friends-grid, .profile .friends .inner, DIV.blog-preview > H4, .comments-table td, .comments-table td:first-child, .profile .blurbs .inner, DIV.blog-preview, .details-table td, .details-table td:first-child, nav .top, nav .links, footer { 
+  background-color:#000000; 
+ } 
+
+  .details-table td *, a, .profile .blurbs .heading h4, .profile .friends .heading h4, .profile .blurbs .section h4, .profile .friends .person p, #comments > div.inner:nth-child(2) > p:first-child > b:first-child, DIV.url-info > P:nth-child(1) > B, .profile .url-info p, .comments-table td *, div.friends:nth-of-type(3) > div.inner:nth-child(2) > p:first-child > b:first-child, DIV.blog-preview > H4, DIV.blog-preview > P > I, P:nth-child(2) > B, .profile h1, p { 
+  color:#F0FFF0; 
+ } 
+
+ 
+.count, nav .links a:hover   { 
+  color:#cd0411; 
+ } 
+
+
+<style>
+:root{
+/* [background color]: header on top */
+ --logo-blue:url(URL);
+}
+
+nav .links {
+    background-image:url(https://i.pinimg.com/736x/59/49/ff/5949ffef5d5dba24f74f46b79b8401fd.jpg);
+    padding: 3.5px 16px 5.5px 16px;
+}
+
+
+
+
+main:before {
+ width:auto;
+ height: 140px;
+ display: block;
+ content: "";
+ background-image: url('https://im4.ezgif.com/tmp/ezgif-4-7b3369fca8.gif');
+ background-position: center center;
+ background-size: cover;
+}
+
+
+main:after {
+	content: url('https://64.media.tumblr.com/5378220ba98a749e42fd0227023e03fe/778906ba6e6f80e1-2d/s250x400/34ec9a8aaab86545465e85b891b9a4b7fdc18b70.gif');
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	transform: translateX(-3vw) translateY(-1vh);
+	pointer-events: none;
+
+
+<style>
+
+#music {
+  position: relative;
+  background: url('https://static.tumblr.com/bpdtqce/eNEnoonrt/musicplayer.png') top left no-repeat;
+    background-size: auto;
+  background-size: auto;
+  background-size: 100% 100%;
+  overflow: hidden;
+  height: 50px;
+  max-width: 305px;
+  border: 1px solid #000000;
+}
+#music iframe {
+  position: absolute;
+  top: 0px;
+  height: 47px;
+  opacity: 0.00000000000000000000000001;
+  z-index: 0;
+  left: 0px;
+}
+#music div {
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  width: 51%;
+  margin: 0 !important;
+}
+#music span {
+  display: block;
+  color: #FFFFFF;
+  font-weight: normal;
+  text-align: left;
+  font-size: 12px;
+  width: 240px;
+}
+
+</style>
+
+
+
+
+<style>* {cursor: url(https://cur.cursors-4u.net/holidays/hol-4/hol338.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2009/10/14/tiny-skull-crossbones.html" target="_blank" title="Tiny Skull Crossbones"><img src="https://cur.cursors-4u.net/cursor.png" alt="Tiny Skull Crossbones" style="position:absolute; top: 0px; right: 0px;"/></a>
+
+<style>* {cursor: url(https://cur.cursors-4u.net/cursors/cur-3/cur222.ani), url(https://cur.cursors-4u.net/cursors/cur-3/cur222.png), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2009/02/28/animated-dance-dance-revolution-ddr-red.html" target="_blank" title="Animated Dance Dance Revolution DDR Red"><img src="https://cur.cursors-4u.net/cursor.png" alt="Animated Dance Dance Revolution DDR Red" style="position:absolute; top: 0px; right: 0px;"/></a>
+
+-------------------------------------
+(not in actual code, but seperator to show that the heros section is as it should be)
+-------------------------------------
+
+<h2 style="color:orange;"> High res Gordon Freeman. </h2>
+
+<img src="https://pbs.twimg.com/media/ETlqQRIVAAAv3KH?format=jpg&name=large"/>
+
+<!-- (c) Layout created by vomitgirl (https://layouts.spacehey.com/layout?id=36600) -->
+
+
+<tr>
+</tr>
+
+<div style="margin-top: 4px;margin-bottom: -12px;">
+
+<div id="music">
+                            <iframe allowfullscreen="" src="https://www.youtube.com/embed/KYq90TEdxIE//?&;amp;;autoplay=1" loading="lazy" width="560" height="315" frameborder="0"></iframe>
+                        <div>
+                            <span class="song">New American Century</span>
+                            <span class="artist">KMFDM</span>
+</div>
+                    </div>
+
+</div>
+
+
+
